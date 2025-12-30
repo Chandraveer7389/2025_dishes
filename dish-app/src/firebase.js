@@ -3,12 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCVw566rEHgm_SMlJkA__oDvSBCzn1jibE",
-  authDomain: "dish-app-e4135.firebaseapp.com",
-  projectId: "dish-app-e4135",
-  storageBucket: "dish-app-e4135.firebasestorage.app",
-  messagingSenderId: "573366212230",
-  appId: "1:573366212230:web:eb0fd0135978620d4d2307"
+  // add your own firebase api key
 };
 
 const app = initializeApp(firebaseConfig);
