@@ -41,4 +41,4 @@ A modern, responsive React application for browsing, searching, and filtering fo
 
 ---
 
-### 📂 Project Structure
+### 📂 Add your own firebase api in the empty section
